@@ -1,13 +1,19 @@
-#summary One-sentence summary of this page.
+#summary A few pointers if you want to edit my HUD
 
-= Introduction =
+= nig nog =
 
 Add your content here.
 
 
-= Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<b><Font size="5">Index</font></b>
+
+= <font size ="3">1. How to Edit the HUD Files</font> =
+
+= <font size ="3">2. Custom Crosshairs</font> =
+
+= <font size ="3">3. Colours and Positioning</font> =
+
+= <font size ="3">4. Removing the Health Cross</font> =
+
+= <font size ="3">5. Custom Main Menu</font> =
