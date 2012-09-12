@@ -49,7 +49,7 @@ In the likely event that the crosshair is not centered (you can check using the 
 
 2. Attempt fix the crosshair position yourself by changing the <i>xpos, ypos, wide</i> and <i>tall</i> values.
 
-If you want to edit the colour change when you hit someone (<i>example</i>) then you'll need to go into <i>tf/scripts/</i> and open the <i>HudAnimations_tf.txt</i> file. Once in, scroll right to the bottom of the document to <i>event DamagedPlayer</i>. The top value is the colour the crosshair changes to when you damage someone and the second value is the colour the crosshair changes back to after damaging someone (this should be the same as the fgcolor in <i>hudlayout.res</i>
+If you want to edit the colour change when you hit someone (<i>example</i>) then you'll need to go into <i>tf/scripts/</i> and open the <i>hudanimations_tf.txt</i> file. Once in, scroll right to the bottom of the document to <i>event damagedplayer</i>. The top value is the colour the crosshair changes to when you damage someone and the second value is the colour the crosshair changes back to after damaging someone (this should be the same as the fgcolor in <i>hudlayout.res</i>
 
 
 = <font size ="3">3. Colours and Positioning</font> =
