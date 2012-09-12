@@ -1,12 +1,12 @@
 #summary A few pointers if you want to edit my HUD
 
-= nig nog =
+<b><font size="6">Customisation</font></b>
 
 Add your content here.
 
 
 
-<b><Font size="5">Index</font></b>
+<b><font size="5">Index</font></b>
 
 = <font size ="3">1. How to Edit the HUD Files</font> =
 
