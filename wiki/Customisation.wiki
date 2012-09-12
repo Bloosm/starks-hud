@@ -18,7 +18,7 @@ A quick guide on how to edit the main features of my HUD.
 
 4. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#4._Removing_the_Health_Cross">Removing the Health Cross</a>
 
-5. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#1._How_to_Edit_the_HUD_Files">Main Menu</a>
+5. <a href="http://code.google.com/p/starks-hud/wiki/Customisation?ts=1347460439&updated=Customisation#5._Main_Menu">Main Menu</a>
 
 
 
