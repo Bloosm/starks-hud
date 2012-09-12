@@ -1,14 +1,40 @@
-#summary A few pointers if you want to edit my HUD
+#summary A quick guide on how to edit the main features of my HUD.
 
 <b><font size="6">Customisation</font></b>
 
-Add your content here.
+A quick guide on how to edit the main features of my HUD.
+
+
 
 
 
 <b><font size="5">Index</font></b>
 
+1. How to Edit the HUD Files
+<a href="http://code.google.com/p/starks-hud/w/edit.do#1._How_to_Edit_the_HUD_Files">1. How to Edit the HUD Files</a>
+
+2. Custom Crosshairs
+
+3. Colours and Positioning
+
+4. Removing the Health Cross
+
+5. Custom Main Menu
+
+
+
+
+
 = <font size ="3">1. How to Edit the HUD Files</font> =
+
+Assuming you've installed the HUD correctly, the HUD files you'll want to be editing will be in the <i>Resource</i> and <i>Scripts</i> folders in <i>steam/steamapps/USER NAME/team fortress 2/tf</i>.
+
+The main file in question is the <i>.res</i> file which can be opened with Notepad. Personally, I prefer <a href="http://notepad-plus-plus.org/download/v6.1.7.html">Notepad++</a> as it makes editing several files at the same time much easier but you can use whatever.
+
+To edit the <i>.res</i> files, just open with Notepad and change the values you wish. You can save most HUD files while in the game and reload the HUD to view your changes (with the console command <i>hud_reloadscheme</i>) but for other files (e.g. <i>clientscheme.res</i>) you will have to reopen TF2 to view the changes.
+
+
+
 
 = <font size ="3">2. Custom Crosshairs</font> =
 
