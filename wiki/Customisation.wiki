@@ -10,15 +10,16 @@ A quick guide on how to edit the main features of my HUD.
 
 <b><font size="5">Index</font></b>
 
-<a href="http://code.google.com/p/starks-hud/wiki/Customisation?ts=1347460103&updated=Customisation#1._How_to_Edit_the_HUD_Files">1. How to Edit the HUD Files</a>
+1. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#1._How_to_Edit_the_HUD_Files">How to Edit the HUD Files</a>
 
-2. Custom Crosshairs
+2. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#2._Custom_Crosshairs">Custom Crosshairs</a>
 
-3. Colours and Positioning
+3. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#3._Colours_and_Positioning">Colours and Positioning</a>
 
-4. Removing the Health Cross
+4. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#4._Removing_the_Health_Cross">Removing the Health Cross</a>
 
-5. Custom Main Menu
+5. <a href="http://code.google.com/p/starks-hud/wiki/Customisation#1._How_to_Edit_the_HUD_Files">Main Menu</a>
+
 
 
 
@@ -41,4 +42,4 @@ To edit the <i>.res</i> files, just open with Notepad and change the values you 
 
 = <font size ="3">4. Removing the Health Cross</font> =
 
-= <font size ="3">5. Custom Main Menu</font> =
+= <font size ="3">5. Main Menu</font> =
