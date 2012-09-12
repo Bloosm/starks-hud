@@ -27,7 +27,7 @@ A quick guide on how to edit the main features of my HUD.
 
 = <font size ="3">1. How to Edit the HUD Files</font> =
 
-Assuming you've installed the HUD correctly, the HUD files you'll want to be editing will be in the <i>Resource</i> and <i>Scripts</i> folders in <i>steam/steamapps/USER NAME/team fortress 2/tf</i>.
+Assuming you've installed the HUD correctly, the HUD files you'll want to be editing will be in the <i>Resource</i> and <i>Scripts</i> folders in <i>steam/steamapps/USER NAME/team fortress 2/tf/</i>.
 
 The main file in question is the <i>.res</i> file which can be opened with Notepad. Personally, I prefer <a href="http://notepad-plus-plus.org/download/v6.1.7.html">Notepad++</a> as it makes editing several files at the same time much easier but you can use whatever.
 
@@ -37,6 +37,20 @@ To edit the <i>.res</i> files, just open with Notepad and change the values you 
 
 
 = <font size ="3">2. Custom Crosshairs</font> =
+
+
+To enable or disable custom crosshairs already in my HUD (currently only 1) go into <i>tf/scripts/</i> and open <i>hudlayout.res</i> in Notepad. Look through the first few paragraphs looking at the titles of each paragraph (the only one at the moment is called <i>xHair // ...</i>). When you find the crosshair you want to enable look under the title for the <i>visible</i> and <i>visible_minmode</i> entries and change them both from "0" to "1".
+
+You can also change the colour here as well by editing the <i>fgcolor</i> entry. The colour code is RGBA. A stands for Alpha or transparency (with 255 being opaque and 0 being transparent). You can find most RGB colours <a href="http://www.webdiner.com/annexe/hexcode/hexcode.htm.">here</a>.
+
+In the likely event that the crosshair is not centered (you can check using the in-game crosshairs) you can either:
+
+1. Whine to me to get off my lazy arse and fix the custom crosshairs or...
+
+2. Attempt fix the crosshair position yourself by changing the <i>xpos, ypos, wide</i> and <i>tall</i> values.
+
+If you want to edit the colour change when you hit someone (<i>example</i>) then you'll need to go into <i>tf/scripts/</i> and open the <i>HudAnimations_tf.txt</i> file. Once in, scroll right to the bottom of the document to <i>event DamagedPlayer</i>. The top value is the colour the crosshair changes to when you damage someone and the second value is the colour the crosshair changes back to after damaging someone (this should be the same as the fgcolor in <i>hudlayout.res</i>
+
 
 = <font size ="3">3. Colours and Positioning</font> =
 
