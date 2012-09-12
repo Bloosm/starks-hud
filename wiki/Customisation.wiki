@@ -11,7 +11,7 @@ A quick guide on how to edit the main features of my HUD.
 <b><font size="5">Index</font></b>
 
 1. How to Edit the HUD Files
-<a href="http://code.google.com/p/starks-hud/w/edit.do#1._How_to_Edit_the_HUD_Files">1. How to Edit the HUD Files</a>
+<a href="http://code.google.com/p/starks-hud/wiki/Customisation?ts=1347460103&updated=Customisation#1._How_to_Edit_the_HUD_Files">1. How to Edit the HUD Files</a>
 
 2. Custom Crosshairs
 
