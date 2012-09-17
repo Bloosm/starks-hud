@@ -1,5 +1,6 @@
 Main Menu
 
+<img border="0" src="/images/pulpit.jpg" alt="Pulpit rock" width="304" height="228" />
 
 
 Normal Version
