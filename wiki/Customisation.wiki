@@ -68,3 +68,7 @@ If you're changing the <i>xpos</i> and <i>ypos</i> values and nothing is happeni
 = <font size ="3">4. Removing the Health Cross</font> =
 
 = <font size ="3">5. Main Menu</font> =
+
+<b><font size ="3">Still got an issue?</font></b>
+
+Try reading <a href="http://flamehud.googlecode.com/files/FlameHUD.pdf">Flame's guide to HUDs</a> or watching <a href="http://www.youtube.com/playlist?list=PLE43CB433F747821E">Rad's tutorials on Youtube</a>
